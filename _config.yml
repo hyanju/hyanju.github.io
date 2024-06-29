@@ -65,7 +65,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 'Ov23li0Vo8yqw3RPQDek'    #生成的clientID
   clientSecret: 'ae9fc3dcff6adc5d19b171021556bd34fc4d52a6'   #同上
-  repo: img_gitalk    #仓库名称
+  repo: Blog_Gitalk    #仓库名称
   owner: hyanju    #github用户名
   admin: hyanju
 
