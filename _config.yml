@@ -1,7 +1,7 @@
 # Site settings
 title: Huang  #你博客的标题
 SEOTitle: Huang的博客 | Huang Blog  #显示在浏览器上搜索的时候显示的标题
-header-img: img/page-bg-keyboard.png #显示在首页的背景图片
+header-img: img/post-bg-ios10.jpg #显示在首页的背景图片
 email: 1920736211@qq.com
 description: "Hey，我是Huang，一只前端程序猿,主要分享一些关于前端的知识" #网站介绍
 keyword: "Huang的博客,GitHub,Huang,博客,Blog,JavaScript，前端" #关键词
