@@ -8,7 +8,7 @@ keyword: "Huang的博客,GitHub,Huang,博客,Blog,JavaScript，前端" #关键�
 url: "https://hyanju.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "blog" # you code repository
-author: Fe
+author: Huang
 
 # 是否托管在Coding_Pages
 Coding_Pages: true
@@ -19,7 +19,7 @@ baidu_js_push: false
 # Sidebar settings侧边栏
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/avatar_p11179162.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_p11179162.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # SNS settings社交账号
